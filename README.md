@@ -1,6 +1,9 @@
 # get-ioc-repos
 Script to get popular, good reputation indicators
 
+Could base this just on: https://github.com/InQuest/awesome-yara
+
+
 # IOC repos
 https://github.com/advanced-threat-research/IOCs.git
 https://github.com/botherder/targetedthreats.git
